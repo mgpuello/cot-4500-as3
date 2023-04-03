@@ -170,6 +170,6 @@ if __name__ == "__main__":
     dominate_matrix = np.array([[9, 0, 5, 2, 1], [3, 9, 1, 2, 1], [0, 1, 7, 2, 3], [4, 2, 3, 12, 2], [3, 2, 4, 0, 8]])
     diagonally_dominate(dominate_matrix, n)
 
-    ## 6 - Positive definite Function
+    #Positive definite Function
     definite_matrix = np.matrix([[2, 2, 1], [2, 3, 0], [1, 0, 2]])
     positive_definite(definite_matrix)
