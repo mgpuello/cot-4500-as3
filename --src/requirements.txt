@@ -1,0 +1,1 @@
+To run this program it's neccesary to install the package numpy 1.24.2
